@@ -166,5 +166,9 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 ### Add Attendance
 
+## Contract Details
+
+- Contract Address: CDTY7G7ALVRRQFYAETJKXGV7AMOWZRIUAK3DR7OGW3W2AHWONPSWKIR6
+
 ```rust
 add_attendance(env, name)
